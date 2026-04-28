@@ -1,7 +1,7 @@
 # Olá, eu sou o Weldercris Ribeiro! 👋
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,cs,mssql,nextjs,tailwind,git" alt="Minha Stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,mssql,nextjs,tailwind,git" alt="Minha Stack" />
 </div>
 
 ---

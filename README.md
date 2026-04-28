@@ -26,7 +26,7 @@ Estou em transição para o cargo de Desenvolvedor **Full Stack**; Sou apaixonad
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,cs,dotnet,nodejs,mssql,postgres,git,github,vscode,postman" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mssql,postgres,git,github,vscode,postman" alt="Minhas Tecnologias" />
 </div>
 
 ---

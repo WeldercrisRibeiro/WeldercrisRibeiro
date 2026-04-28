@@ -7,12 +7,11 @@
 ---
 
 ### 🚀 Sobre Mim
-Desenvolvedor **Full Stack** apaixonado por transformar café em código e ideias em soluções digitais robustas. Foco em arquiteturas modernas, performance e experiências de usuário memoráveis.
+Estou em transição para o cargo de Desenvolvedor **Full Stack**; Sou apaixonado por transformar ideias em código e soluções digitais robustas. Foco em arquiteturas modernas, performance e experiências de usuário memoráveis.
 
 - 🔭 Atualmente trabalhando em sistemas escaláveis e automações inteligentes.
 - 🌱 Aprofundando conhecimentos em Ecossistema .NET e Next.js.
 - ⚡ Busco sempre o equilíbrio entre **Código Limpo** e **Design com Intenção**.
-- 💬 Pergunte-me sobre React, TypeScript, C# ou SQL Server.
 
 ---
 
@@ -21,7 +20,7 @@ Desenvolvedor **Full Stack** apaixonado por transformar café em código e ideia
 | Área | Tecnologias |
 | :--- | :--- |
 | **Frontend** | `React`, `Next.js`, `TypeScript`, `JavaScript`, `TailwindCSS`, `HTML5`, `CSS3` |
-| **Backend** | `C#`, `.NET Core`, `Node.js`, `SQL Server`, `PostgreSQL` |
+| **Backend** |  `NestJS`, `Node.js`, `SQL Server`, `PostgreSQL` |
 | **DevOps / Outros** | `Git`, `GitHub`, `Vercel`, `Supabase`, `Prisma` |
 
 <br/>

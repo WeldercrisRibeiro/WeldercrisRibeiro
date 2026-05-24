@@ -20,7 +20,7 @@ Estou em transição para o cargo de Desenvolvedor **Full Stack**; Sou apaixonad
 | Área | Tecnologias |
 | :--- | :--- |
 | **Frontend** | `React`, `Next.js`, `TypeScript`, `JavaScript`, `TailwindCSS`, `HTML5`, `CSS3` |
-| **Backend** |  `NestJS`, `Node.js`, `SQL Server`, `PostgreSQL` |
+| **Backend** |  `NestJS`, `Node.js`, `Python`, `SQL Server`, `PostgreSQL` | 
 | **DevOps / Outros** | `Git`, `GitHub`, `Vercel`, `Supabase`, `Prisma` |
 
 <br/>
